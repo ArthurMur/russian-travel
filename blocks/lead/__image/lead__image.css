@@ -1,8 +1,6 @@
 .lead__image {
-  background-image: url('../../../image/reserved-seat.jpg');
+  display: block;
   width: 100%;
-  padding-bottom: 62.5%;
-  background-size: cover;
-  background-position: center;
+  object-fit: cover;
 }
 

@@ -1,13 +1,12 @@
 .footer {
-  background-color: #2A2C2F;
-  margin: 92px 48px 0 48px;
+  margin: 0 48px 0 48px;
   display: flex;
   justify-content: space-between;
 }
 
 @media screen and (max-width: 1023px) {
   .footer {
-    margin: 92px 24px 0 24px;
+    margin: 0 24px 0 24px;
   }
 }
 
