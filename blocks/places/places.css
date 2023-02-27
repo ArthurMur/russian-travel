@@ -1,6 +1,5 @@
 .places {
   width: 100%;
-  display: flexbox;
   display: grid;
   gap: 80px;
 }
